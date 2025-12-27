@@ -2,10 +2,10 @@
 **BRFSS (CDC), Georgia, United States**
 ---
 ## Project Overview
-This project applies econometric modeling and machine learning techniques to analyze diabetes prevalence using large-scale observational health survey data. The analysis focuses on understanding associations between diabetes and key risk factors, diagnosing the limitations of linear models in aggregated data, and identifying high-risk population groups through classification and risk ranking.
+- This project applies econometric modeling and machine learning techniques to analyze diabetes prevalence using large-scale observational health survey data. The analysis focuses on understanding associations between diabetes and key risk factors, diagnosing the limitations of linear models in aggregated data, and identifying high-risk population groups through classification and risk ranking.
 ---
 ## Objective
-To analyze diabetes prevalence and risk patterns using behavioral and clinical risk factors, and to evaluate the suitability of econometric and machine learning methods for risk stratification in aggregated public health data.
+- To analyze diabetes prevalence and risk patterns using behavioral and clinical risk factors, and to evaluate the suitability of econometric and machine learning methods for risk stratification in aggregated public health data.
 ---
 ## Data
 **Source:** Behavioral Risk Factor Surveillance System (BRFSS)  
